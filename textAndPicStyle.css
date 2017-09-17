@@ -1,0 +1,44 @@
+body {
+    font-family: calibri;
+    width: 800px;
+    margin: 0 auto;
+    
+}
+
+.title {
+    text-align: center;
+    font-size: 50;
+    font-weight: 300;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    letter-spacing: 2;
+    
+}
+
+.entry {
+    margin: 20 0;
+    height: 300px;
+}
+img {
+    height: 200px;
+    float: right;
+    margin-left: 20px;
+}
+
+.heading {
+    font-size: 25;
+    color: rgba(0,0,0,0.9);
+
+}
+
+.director {
+    font-style: italic;
+    color: rgba(255,144,144,0.9);
+    
+}
+
+.content {
+    color: rgba(0,0,0,0.6);
+    line-height: 26px;
+    margin-top: 10px;
+}
